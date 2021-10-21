@@ -49,7 +49,7 @@ for implied volatility calculation:
     r - risk-free rate
     t - time until expiration
     v - **implied volatility guess**
-    epsilon - accruacy tolerance
+    epsilon - accuracy tolerance
 *)
 
 let s = 451.66
